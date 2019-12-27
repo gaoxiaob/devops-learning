@@ -1,2 +1,1 @@
-hello from xiaobin
-12
+Modify different files - test
